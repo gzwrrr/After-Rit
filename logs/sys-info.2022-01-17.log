@@ -1,0 +1,174 @@
+02:40:50.761 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 27924 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+02:40:50.770 --- [restartedMain] INFO  c.g.r.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+02:40:50.853 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+02:40:50.853 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+02:40:52.732 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+02:40:52.745 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+02:40:52.746 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+02:40:52.746 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+02:40:52.911 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+02:40:52.911 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 2056 ms
+02:40:53.822 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+02:40:53.928 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+02:40:53.978 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+02:40:54.197 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+02:40:54.236 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+02:40:54.237 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+02:40:54.262 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+02:40:54.300 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+02:40:54.483 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarted,61] - Started RitApplication in 4.335 seconds (JVM running for 6.256)
+02:41:43.118 --- [Thread-8] INFO  o.s.s.c.ThreadPoolTaskExecutor - [shutdown,218] - Shutting down ExecutorService 'applicationTaskExecutor'
+02:41:43.120 --- [Thread-8] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+02:41:43.328 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 27924 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+02:41:43.329 --- [restartedMain] INFO  c.g.r.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+02:41:43.923 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+02:41:43.924 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+02:41:43.925 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+02:41:43.925 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+02:41:43.963 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+02:41:43.964 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 631 ms
+02:41:44.169 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+02:41:44.203 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+02:41:44.214 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+02:41:44.281 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+02:41:44.285 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+02:41:44.285 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+02:41:44.286 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+02:41:44.290 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+02:41:44.295 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarted,61] - Started RitApplication in 1.023 seconds (JVM running for 56.068)
+02:41:44.297 --- [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [onApplicationEvent,63] - Condition evaluation unchanged
+03:04:02.513 --- [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+03:04:02.515 --- [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+03:04:02.532 --- [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 17 ms
+03:06:22.802 --- [Thread-17] INFO  o.s.s.c.ThreadPoolTaskExecutor - [shutdown,218] - Shutting down ExecutorService 'applicationTaskExecutor'
+03:06:22.806 --- [Thread-17] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+03:06:23.048 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 27924 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+03:06:23.048 --- [restartedMain] INFO  c.g.r.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+03:06:23.493 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+03:06:23.493 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+03:06:23.493 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+03:06:23.494 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+03:06:23.516 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+03:06:23.516 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 464 ms
+03:06:23.627 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+03:06:23.644 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+03:06:23.648 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+03:06:23.686 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+03:06:23.688 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+03:06:23.689 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+03:06:23.689 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+03:06:23.692 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+03:06:23.695 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarted,61] - Started RitApplication in 0.714 seconds (JVM running for 1535.468)
+03:06:23.696 --- [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [onApplicationEvent,63] - Condition evaluation unchanged
+03:06:23.859 --- [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+03:06:23.860 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+03:06:23.862 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 2 ms
+03:06:49.567 --- [Thread-22] INFO  o.s.s.c.ThreadPoolTaskExecutor - [shutdown,218] - Shutting down ExecutorService 'applicationTaskExecutor'
+03:06:49.568 --- [Thread-22] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+03:06:49.718 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 27924 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+03:06:49.718 --- [restartedMain] INFO  c.g.r.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+03:06:49.958 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+03:06:49.959 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+03:06:49.959 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+03:06:49.959 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+03:06:49.983 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+03:06:49.983 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 263 ms
+03:06:50.084 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+03:06:50.099 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+03:06:50.103 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+03:06:50.136 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+03:06:50.138 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+03:06:50.139 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+03:06:50.139 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+03:06:50.141 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+03:06:50.152 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarted,61] - Started RitApplication in 0.466 seconds (JVM running for 1561.925)
+03:06:50.153 --- [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [onApplicationEvent,63] - Condition evaluation unchanged
+03:06:51.007 --- [http-nio-8080-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+03:06:51.008 --- [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+03:06:51.009 --- [http-nio-8080-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 1 ms
+16:39:35.903 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 31496 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+16:39:35.913 --- [restartedMain] INFO  c.g.r.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+16:39:35.973 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+16:39:35.973 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+16:39:37.353 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+16:39:37.363 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:39:37.363 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:39:37.363 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+16:39:37.459 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:39:37.459 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 1486 ms
+16:39:38.233 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+16:39:38.293 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+16:39:38.323 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+16:39:38.452 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+16:39:38.473 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+16:39:38.473 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+16:39:38.492 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+16:39:38.513 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+16:39:38.653 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarted,61] - Started RitApplication in 3.285 seconds (JVM running for 5.128)
+16:40:23.086 --- [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:40:23.087 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+16:40:23.093 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 6 ms
+16:51:12.202 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 15860 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+16:51:12.205 --- [restartedMain] INFO  c.g.r.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+16:51:12.254 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+16:51:12.254 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+16:51:13.499 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+16:51:13.507 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:51:13.508 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:51:13.508 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+16:51:13.621 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:51:13.621 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 1366 ms
+16:51:14.251 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+16:51:14.320 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+16:51:14.354 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+16:51:14.510 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+16:51:14.530 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+16:51:14.531 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+16:51:14.546 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+16:51:14.573 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+16:51:14.687 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarted,61] - Started RitApplication in 2.912 seconds (JVM running for 4.797)
+16:51:23.687 --- [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:51:23.688 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+16:51:23.693 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 5 ms
+16:51:46.620 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 7892 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+16:51:46.622 --- [restartedMain] INFO  c.g.r.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+16:51:46.659 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+16:51:46.659 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+16:51:47.617 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+16:51:47.622 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+16:51:47.623 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:51:47.623 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+16:51:47.696 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:51:47.697 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 1037 ms
+16:51:48.105 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+16:51:48.148 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+16:51:48.169 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+16:51:48.262 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+16:51:48.274 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+16:51:48.275 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+16:51:48.284 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+16:51:48.300 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+16:51:48.373 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarted,61] - Started RitApplication in 2.068 seconds (JVM running for 3.27)
+16:52:01.862 --- [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:52:01.863 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+16:52:01.871 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 8 ms
+20:56:22.538 --- [Thread-7] INFO  o.s.s.c.ThreadPoolTaskExecutor - [shutdown,218] - Shutting down ExecutorService 'applicationTaskExecutor'
+20:56:22.543 --- [Thread-7] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+20:56:22.731 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 7892 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+20:56:22.731 --- [restartedMain] INFO  c.g.r.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+20:56:23.121 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+20:56:23.122 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+20:56:23.122 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+20:56:23.122 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+20:56:23.147 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+20:56:23.147 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 414 ms
+20:56:23.316 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+20:56:23.343 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+20:56:23.350 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+20:56:23.413 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+20:56:23.416 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+20:56:23.417 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+20:56:23.417 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+20:56:23.423 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+20:56:23.440 --- [restartedMain] INFO  c.g.r.RitApplication - [logStarted,61] - Started RitApplication in 0.743 seconds (JVM running for 14678.338)
+20:56:23.441 --- [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [onApplicationEvent,63] - Condition evaluation unchanged

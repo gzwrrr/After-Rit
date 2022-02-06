@@ -1,0 +1,605 @@
+01:59:26.156 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 77076 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+01:59:26.161 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+01:59:26.213 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+01:59:26.213 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+01:59:27.025 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+01:59:27.028 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+01:59:27.062 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 21ms. Found 0 Redis repository interfaces.
+01:59:27.321 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$d15d38de] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+01:59:27.362 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@5d26a05b' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+01:59:27.367 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+01:59:27.718 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+01:59:27.728 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+01:59:27.728 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+01:59:27.729 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+01:59:27.829 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+01:59:27.829 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 1615 ms
+01:59:28.146 --- [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+01:59:28.148 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+01:59:28.165 --- [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - [logMessage,136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+02:00:36.571 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 75804 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+02:00:36.574 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+02:00:36.615 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+02:00:36.615 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+02:00:37.271 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+02:00:37.272 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+02:00:37.298 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+02:00:37.524 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$1d26d07c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+02:00:37.746 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+02:00:37.751 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+02:00:37.752 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+02:00:37.752 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+02:00:37.835 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+02:00:37.835 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 1220 ms
+02:00:38.073 --- [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+02:00:38.075 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+02:00:38.088 --- [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - [logMessage,136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+02:05:03.634 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 83808 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+02:05:03.637 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+02:05:03.690 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+02:05:03.691 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+02:05:04.601 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+02:05:04.603 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+02:05:04.642 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 25ms. Found 0 Redis repository interfaces.
+02:05:04.930 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$3001a0cc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+02:05:05.281 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+02:05:05.290 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+02:05:05.290 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+02:05:05.291 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+02:05:05.416 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+02:05:05.416 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 1725 ms
+02:05:08.198 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+02:05:08.321 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+02:05:08.369 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+02:05:08.402 --- [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,58] - Adding welcome page template: index
+02:05:08.766 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3d99693b, org.springframework.security.web.context.SecurityContextPersistenceFilter@76f0c8d4, org.springframework.security.web.header.HeaderWriterFilter@142c26f4, org.springframework.security.web.csrf.CsrfFilter@5dc794ff, org.springframework.security.web.authentication.logout.LogoutFilter@5f4cf4d5, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@e081c5, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@33d2e43d, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@1389844f, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@7cb8a4d7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3bbc4214, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@537ec2c9, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3855b824, org.springframework.security.web.session.SessionManagementFilter@6b60cc5f, org.springframework.security.web.access.ExceptionTranslationFilter@71884080, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@21e0a927]
+02:05:08.842 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+02:05:08.864 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+02:05:08.865 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+02:05:08.887 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+02:05:08.920 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+02:05:08.946 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarted,61] - Started RitApplication in 5.72 seconds (JVM running for 8.051)
+02:05:32.186 --- [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+02:05:32.186 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+02:05:32.194 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 7 ms
+02:05:55.991 --- [http-nio-8080-exec-5] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+02:11:06.888 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 23660 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+02:11:06.891 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+02:11:06.939 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+02:11:06.940 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+02:11:07.858 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+02:11:07.860 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+02:11:07.900 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 26ms. Found 0 Redis repository interfaces.
+02:11:08.246 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$894902ef] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+02:11:08.618 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+02:11:08.628 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+02:11:08.629 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+02:11:08.630 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+02:11:08.762 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+02:11:08.762 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 1822 ms
+02:11:11.457 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+02:11:11.560 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+02:11:11.611 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+02:11:11.640 --- [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,58] - Adding welcome page template: index
+02:11:11.970 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@30ce225d, org.springframework.security.web.context.SecurityContextPersistenceFilter@2c97c981, org.springframework.security.web.header.HeaderWriterFilter@7a735fb, org.springframework.security.web.csrf.CsrfFilter@7e6bdf78, org.springframework.security.web.authentication.logout.LogoutFilter@30f03b58, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@28c39f84, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@203dc40, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@45bfc235, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@43f16d43, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7cf29393, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@b4eaf99, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6749ec9f, org.springframework.security.web.session.SessionManagementFilter@6c3a6770, org.springframework.security.web.access.ExceptionTranslationFilter@31bd9020, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@30015f7b]
+02:11:12.039 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+02:11:12.060 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+02:11:12.061 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+02:11:12.079 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+02:11:12.110 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+02:11:12.135 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarted,61] - Started RitApplication in 5.683 seconds (JVM running for 8.041)
+02:11:19.614 --- [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+02:11:19.615 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+02:11:19.621 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 6 ms
+02:11:27.412 --- [http-nio-8080-exec-4] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+02:16:04.046 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 41488 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+02:16:04.050 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+02:16:04.085 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+02:16:04.086 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+02:16:04.695 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+02:16:04.696 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+02:16:04.719 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 14ms. Found 0 Redis repository interfaces.
+02:16:04.879 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$ade33d42] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+02:16:05.088 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+02:16:05.093 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+02:16:05.094 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+02:16:05.094 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+02:16:05.171 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+02:16:05.171 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 1085 ms
+02:16:06.720 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+02:16:06.778 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+02:16:06.801 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+02:16:06.817 --- [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,58] - Adding welcome page template: index
+02:16:07.016 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6749ec9f, org.springframework.security.web.context.SecurityContextPersistenceFilter@7cf29393, org.springframework.security.web.header.HeaderWriterFilter@6c3a6770, org.springframework.security.web.csrf.CsrfFilter@1d0818e4, org.springframework.security.web.authentication.logout.LogoutFilter@30aa57db, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@35531583, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@66b499b7, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@2b5971cb, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@30ae52b1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@75f7ebcf, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@203dc40, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6a447237, org.springframework.security.web.session.SessionManagementFilter@2c97c981, org.springframework.security.web.access.ExceptionTranslationFilter@7a735fb, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4700e56d]
+02:16:07.061 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+02:16:07.074 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+02:16:07.075 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+02:16:07.085 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+02:16:07.103 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+02:16:07.116 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarted,61] - Started RitApplication in 3.36 seconds (JVM running for 4.664)
+02:16:40.968 --- [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+02:16:40.969 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+02:16:40.974 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 5 ms
+02:16:47.917 --- [http-nio-8080-exec-5] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+02:27:32.807 --- [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - [shutdown,218] - Shutting down ExecutorService 'applicationTaskExecutor'
+02:27:32.831 --- [Thread-10] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-1} closing ...
+02:27:32.837 --- [Thread-10] INFO  c.a.d.p.DruidDataSource - [close,2020] - {dataSource-1} closed
+02:27:33.139 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 41488 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+02:27:33.140 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+02:27:33.625 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+02:27:33.625 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+02:27:33.643 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+02:27:33.732 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$ade33d42] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+02:27:33.942 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+02:27:33.943 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+02:27:33.944 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+02:27:33.944 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+02:27:33.985 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+02:27:33.985 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 840 ms
+02:27:35.407 --- [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+02:27:35.408 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+02:27:35.418 --- [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - [logMessage,136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+02:30:15.678 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 88300 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+02:30:15.681 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+02:30:15.721 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+02:30:15.721 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+02:30:16.448 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+02:30:16.449 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+02:30:16.475 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 16ms. Found 0 Redis repository interfaces.
+02:30:16.647 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$1d26d07c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+02:30:16.900 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+02:30:16.906 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+02:30:16.907 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+02:30:16.907 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+02:30:16.997 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+02:30:16.997 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 1275 ms
+02:30:18.791 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+02:30:18.848 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+02:30:18.875 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+02:30:18.891 --- [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,58] - Adding welcome page template: index
+02:30:19.093 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@38007c55, org.springframework.security.web.context.SecurityContextPersistenceFilter@300115de, org.springframework.security.web.header.HeaderWriterFilter@7baa1138, org.springframework.security.web.csrf.CsrfFilter@7f7ab164, org.springframework.security.web.authentication.logout.LogoutFilter@1b592a64, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4c69c712, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@44138a5a, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@3dc32e28, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@43b663bd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@448b4cd8, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6ace3329, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@111999c5, org.springframework.security.web.session.SessionManagementFilter@77051693, org.springframework.security.web.access.ExceptionTranslationFilter@1a7131c4, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@714135a2]
+02:30:19.135 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+02:30:19.149 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+02:30:19.150 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+02:30:19.163 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+02:30:19.183 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+02:30:19.198 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarted,61] - Started RitApplication in 3.863 seconds (JVM running for 5.314)
+02:30:21.889 --- [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+02:30:21.889 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+02:30:21.892 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 3 ms
+02:30:50.252 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 82660 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+02:30:50.255 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+02:30:50.292 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+02:30:50.292 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+02:30:50.857 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+02:30:50.858 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+02:30:50.885 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+02:30:51.064 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$e0d405ca] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+02:30:51.267 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+02:30:51.272 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+02:30:51.273 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+02:30:51.273 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+02:30:51.354 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+02:30:51.354 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 1061 ms
+02:30:52.933 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+02:30:52.994 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+02:30:53.028 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+02:30:53.045 --- [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,58] - Adding welcome page template: index
+02:30:53.241 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3a97ec7d, org.springframework.security.web.context.SecurityContextPersistenceFilter@616f52e, org.springframework.security.web.header.HeaderWriterFilter@1eb49deb, org.springframework.security.web.csrf.CsrfFilter@3ba3df82, org.springframework.security.web.authentication.logout.LogoutFilter@48fab4ac, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@30015f7b, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@5570c719, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@f69aaa5, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@3272a9cb, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@31bd9020, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@67beed78, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@43f16d43, org.springframework.security.web.session.SessionManagementFilter@53321297, org.springframework.security.web.access.ExceptionTranslationFilter@3d1ef45, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@702062b9]
+02:30:53.284 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+02:30:53.296 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+02:30:53.297 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+02:30:53.307 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+02:30:53.325 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+02:30:53.339 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarted,61] - Started RitApplication in 3.409 seconds (JVM running for 4.899)
+02:30:57.647 --- [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+02:30:57.648 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+02:30:57.652 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 4 ms
+02:30:59.978 --- [http-nio-8080-exec-3] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+02:32:13.068 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 82740 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+02:32:13.072 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+02:32:13.133 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+02:32:13.133 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+02:32:14.081 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+02:32:14.083 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+02:32:14.122 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 25ms. Found 0 Redis repository interfaces.
+02:32:14.408 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$992c7c8d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+02:32:14.754 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+02:32:14.763 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+02:32:14.764 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+02:32:14.764 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+02:32:14.897 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+02:32:14.897 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 1763 ms
+02:32:18.281 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+02:32:18.390 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+02:32:18.445 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+02:32:18.474 --- [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,58] - Adding welcome page template: index
+02:32:18.801 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4482a345, org.springframework.security.web.context.SecurityContextPersistenceFilter@7d33479a, org.springframework.security.web.header.HeaderWriterFilter@688577f5, org.springframework.security.web.csrf.CsrfFilter@34df91b4, org.springframework.security.web.authentication.logout.LogoutFilter@7fb6a62d, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@7f297283, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@73185475, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@73914eaf, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@2ad94596, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3aba4aa1, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@75598831, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@ca3b3c6, org.springframework.security.web.session.SessionManagementFilter@5b38be35, org.springframework.security.web.access.ExceptionTranslationFilter@4fe90cd2, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@33a9af4c]
+02:32:18.877 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+02:32:18.900 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+02:32:18.901 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+02:32:18.923 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+02:32:18.959 --- [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+02:32:18.959 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+02:32:18.964 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+02:32:18.966 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 7 ms
+02:32:18.991 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarted,61] - Started RitApplication in 6.418 seconds (JVM running for 8.927)
+02:32:25.750 --- [http-nio-8080-exec-3] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+02:33:43.188 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 79676 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+02:33:43.191 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+02:33:43.240 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+02:33:43.240 --- [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,225] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+02:33:44.161 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+02:33:44.164 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+02:33:44.202 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 25ms. Found 0 Redis repository interfaces.
+02:33:44.488 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$a4a85cf1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+02:33:44.841 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+02:33:44.849 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+02:33:44.850 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+02:33:44.850 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+02:33:44.979 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+02:33:44.979 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 1738 ms
+02:33:47.677 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+02:33:47.787 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+02:33:47.827 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+02:33:47.856 --- [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,58] - Adding welcome page template: index
+02:33:48.167 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@120b8085, org.springframework.security.web.context.SecurityContextPersistenceFilter@1e4e8a72, org.springframework.security.web.header.HeaderWriterFilter@7793a061, org.springframework.security.web.csrf.CsrfFilter@574055ca, org.springframework.security.web.authentication.logout.LogoutFilter@6537fdcf, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@7f19c748, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@4822873d, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@78d09efe, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1b929742, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2c53ed4d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5d98094e, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@20e259d7, org.springframework.security.web.session.SessionManagementFilter@32d6c7b5, org.springframework.security.web.access.ExceptionTranslationFilter@70b67d63, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@287a3a70]
+02:33:48.236 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+02:33:48.256 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+02:33:48.257 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+02:33:48.274 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+02:33:48.305 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+02:33:48.482 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_1
+02:33:48.487 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_1
+02:33:48.488 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_1
+02:33:48.493 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: batchRemoveUsingDELETE_1
+02:33:48.496 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: doAssignUsingPOST_1
+02:33:48.501 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: indexUsingGET_1
+02:33:48.502 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_2
+02:33:48.507 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_2
+02:33:48.509 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: toAssignUsingGET_1
+02:33:48.511 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_2
+02:33:48.531 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarted,61] - Started RitApplication in 5.752 seconds (JVM running for 8.002)
+02:33:59.370 --- [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+02:33:59.371 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+02:33:59.379 --- [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 8 ms
+02:34:05.849 --- [http-nio-8080-exec-6] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-1} inited
+02:39:51.540 --- [Thread-15] INFO  o.s.s.c.ThreadPoolTaskExecutor - [shutdown,218] - Shutting down ExecutorService 'applicationTaskExecutor'
+02:39:51.552 --- [Thread-15] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-1} closing ...
+02:39:51.555 --- [Thread-15] INFO  c.a.d.p.DruidDataSource - [close,2020] - {dataSource-1} closed
+02:39:51.847 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 79676 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+02:39:51.847 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+02:39:52.162 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+02:39:52.162 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+02:39:52.174 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+02:39:52.221 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$a4a85cf1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+02:39:52.328 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+02:39:52.328 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+02:39:52.328 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+02:39:52.328 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+02:39:52.358 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+02:39:52.358 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 509 ms
+02:39:53.289 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+02:39:53.324 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+02:39:53.335 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+02:39:53.341 --- [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,58] - Adding welcome page template: index
+02:39:53.419 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@49aad40a, org.springframework.security.web.context.SecurityContextPersistenceFilter@6267e0a0, org.springframework.security.web.header.HeaderWriterFilter@66a7445c, org.springframework.security.web.csrf.CsrfFilter@29d2c097, org.springframework.security.web.authentication.logout.LogoutFilter@260444ba, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@27112ab, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@7d3623e5, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@5c031c4b, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@75326497, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@ee11d5d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@52382d79, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@56eda92a, org.springframework.security.web.session.SessionManagementFilter@5d0e45ee, org.springframework.security.web.access.ExceptionTranslationFilter@5237dbba, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1090b589]
+02:39:53.449 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+02:39:53.451 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+02:39:53.451 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+02:39:53.452 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+02:39:53.456 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+02:39:53.477 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_1
+02:39:53.480 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_1
+02:39:53.481 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_1
+02:39:53.482 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: batchRemoveUsingDELETE_1
+02:39:53.484 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: doAssignUsingPOST_1
+02:39:53.486 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: indexUsingGET_1
+02:39:53.487 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_2
+02:39:53.489 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_2
+02:39:53.490 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: toAssignUsingGET_1
+02:39:53.490 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_2
+02:39:53.494 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarted,61] - Started RitApplication in 1.686 seconds (JVM running for 372.965)
+02:39:53.496 --- [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [onApplicationEvent,63] - Condition evaluation unchanged
+03:08:52.044 --- [Thread-24] INFO  o.s.s.c.ThreadPoolTaskExecutor - [shutdown,218] - Shutting down ExecutorService 'applicationTaskExecutor'
+03:08:52.051 --- [Thread-24] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+03:08:52.259 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 79676 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+03:08:52.259 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+03:08:52.443 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+03:08:52.443 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+03:08:52.444 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 0ms. Found 0 Redis repository interfaces.
+03:08:52.611 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+03:08:52.611 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+03:08:52.611 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+03:08:52.612 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+03:08:52.647 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+03:08:52.648 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 387 ms
+03:08:52.709 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+03:08:52.719 --- [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,58] - Adding welcome page template: index
+03:08:52.735 --- [restartedMain] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+03:08:52.862 --- [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,1003] - {dataSource-2} inited
+03:08:52.891 --- [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-2} closing ...
+03:08:52.892 --- [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2020] - {dataSource-2} closed
+03:08:52.892 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [shutdown,218] - Shutting down ExecutorService 'applicationTaskExecutor'
+03:08:52.893 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+03:08:52.899 --- [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - [logMessage,136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+03:08:56.365 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 79676 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+03:08:56.365 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+03:08:56.775 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+03:08:56.775 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+03:08:56.788 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 12ms. Found 0 Redis repository interfaces.
+03:08:56.849 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$a4a85cf1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:08:56.899 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+03:08:56.900 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+03:08:56.900 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+03:08:56.900 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+03:08:56.945 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+03:08:56.945 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 577 ms
+03:08:58.602 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+03:08:58.672 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+03:08:58.721 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+03:08:58.744 --- [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,58] - Adding welcome page template: index
+03:08:58.952 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@44f69fb8, org.springframework.security.web.context.SecurityContextPersistenceFilter@8452645, org.springframework.security.web.header.HeaderWriterFilter@1902b93d, org.springframework.security.web.csrf.CsrfFilter@26312245, org.springframework.security.web.authentication.logout.LogoutFilter@502aa379, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@733736f7, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@514cc2cc, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@28403af3, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@f5185df, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@32725c58, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3eb5d07a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@620a3182, org.springframework.security.web.session.SessionManagementFilter@27c90bf3, org.springframework.security.web.access.ExceptionTranslationFilter@4dfefe73, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@57e767a2]
+03:08:59.025 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+03:08:59.030 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+03:08:59.031 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+03:08:59.032 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+03:08:59.040 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+03:08:59.091 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_1
+03:08:59.097 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_1
+03:08:59.099 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_1
+03:08:59.104 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: batchRemoveUsingDELETE_1
+03:08:59.108 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: doAssignUsingPOST_1
+03:08:59.114 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: indexUsingGET_1
+03:08:59.116 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_2
+03:08:59.122 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_2
+03:08:59.124 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: toAssignUsingGET_1
+03:08:59.127 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_2
+03:08:59.136 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarted,61] - Started RitApplication in 2.822 seconds (JVM running for 2118.607)
+03:08:59.140 --- [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [onApplicationEvent,63] - Condition evaluation unchanged
+03:10:17.759 --- [Thread-29] INFO  o.s.s.c.ThreadPoolTaskExecutor - [shutdown,218] - Shutting down ExecutorService 'applicationTaskExecutor'
+03:10:17.763 --- [Thread-29] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+03:10:18.021 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 79676 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+03:10:18.021 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+03:10:18.307 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+03:10:18.307 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+03:10:18.319 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+03:10:18.357 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$a4a85cf1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:10:18.370 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@60d00cdf' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:10:18.373 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:10:18.491 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+03:10:18.491 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+03:10:18.491 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+03:10:18.492 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+03:10:18.518 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+03:10:18.518 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 495 ms
+03:10:19.376 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: Ant [pattern='/*/**'], []
+03:10:19.391 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@682f0f71, org.springframework.security.web.context.SecurityContextPersistenceFilter@7068bd75, org.springframework.security.web.header.HeaderWriterFilter@61e38c67, org.springframework.security.web.authentication.logout.LogoutFilter@3af051d3, com.gzw.rit.common.filter.TokenLoginFilter@2954beea, com.gzw.rit.common.filter.TokenAuthenticationFilter@65cb0358, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@7fb31a13, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@78f7ce91, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@58ae55c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@24ffe70, org.springframework.security.web.session.SessionManagementFilter@49286dc3, org.springframework.security.web.access.ExceptionTranslationFilter@13837283, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2fcc63e3]
+03:10:19.405 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+03:10:19.441 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+03:10:19.452 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+03:10:19.460 --- [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,58] - Adding welcome page template: index
+03:10:19.604 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+03:10:19.606 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+03:10:19.607 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+03:10:19.607 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+03:10:19.610 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+03:10:19.629 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_1
+03:10:19.631 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_1
+03:10:19.632 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_1
+03:10:19.634 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: batchRemoveUsingDELETE_1
+03:10:19.635 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: doAssignUsingPOST_1
+03:10:19.637 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: indexUsingGET_1
+03:10:19.638 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_2
+03:10:19.640 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_2
+03:10:19.641 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: toAssignUsingGET_1
+03:10:19.642 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_2
+03:10:19.646 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarted,61] - Started RitApplication in 1.659 seconds (JVM running for 2199.117)
+03:10:19.649 --- [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [onApplicationEvent,58] - Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+    None
+
+
+Negative matches:
+-----------------
+
+   SpringBootWebSecurityConfiguration:
+      Did not match:
+         - @ConditionalOnMissingBean (types: org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter; SearchStrategy: all) found beans of type 'org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter' tokenWebSecurityConfig (OnBeanCondition)
+      Matched:
+         - @ConditionalOnClass found required class 'org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter' (OnClassCondition)
+         - found 'session' scope (OnWebApplicationCondition)
+
+   WebSecurityEnablerConfiguration:
+      Did not match:
+         - @ConditionalOnMissingBean (names: springSecurityFilterChain; SearchStrategy: all) found beans named springSecurityFilterChain (OnBeanCondition)
+      Matched:
+         - found 'session' scope (OnWebApplicationCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+03:12:33.612 --- [Thread-37] INFO  o.s.s.c.ThreadPoolTaskExecutor - [shutdown,218] - Shutting down ExecutorService 'applicationTaskExecutor'
+03:12:33.616 --- [Thread-37] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+03:12:33.819 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 79676 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+03:12:33.820 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+03:12:34.099 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+03:12:34.099 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+03:12:34.110 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+03:12:34.145 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$a4a85cf1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:12:34.148 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@1eec09bf' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:12:34.149 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:12:34.247 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+03:12:34.247 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+03:12:34.247 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+03:12:34.248 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+03:12:34.271 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+03:12:34.271 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 449 ms
+03:12:35.030 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: Ant [pattern='/*/**'], []
+03:12:35.047 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5f132b62, org.springframework.security.web.context.SecurityContextPersistenceFilter@3f40feae, org.springframework.security.web.header.HeaderWriterFilter@6114f54b, org.springframework.security.web.authentication.logout.LogoutFilter@70b34ab9, com.gzw.rit.common.filter.TokenLoginFilter@79635957, com.gzw.rit.common.filter.TokenAuthenticationFilter@567ad22f, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@4d744c64, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3ea3fcd0, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@785be8e2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3902b3e8, org.springframework.security.web.session.SessionManagementFilter@31c032bd, org.springframework.security.web.access.ExceptionTranslationFilter@6a9d7fe1, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@27a112f6]
+03:12:35.056 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+03:12:35.091 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+03:12:35.103 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+03:12:35.111 --- [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,58] - Adding welcome page template: index
+03:12:35.205 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+03:12:35.206 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+03:12:35.207 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+03:12:35.207 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+03:12:35.210 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+03:12:35.225 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_1
+03:12:35.227 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_1
+03:12:35.227 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_1
+03:12:35.228 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: batchRemoveUsingDELETE_1
+03:12:35.229 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: doAssignUsingPOST_1
+03:12:35.231 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: indexUsingGET_1
+03:12:35.232 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_2
+03:12:35.233 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_2
+03:12:35.234 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: toAssignUsingGET_1
+03:12:35.234 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_2
+03:12:35.238 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarted,61] - Started RitApplication in 1.447 seconds (JVM running for 2334.708)
+03:12:35.239 --- [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [onApplicationEvent,63] - Condition evaluation unchanged
+03:15:34.056 --- [Thread-42] INFO  o.s.s.c.ThreadPoolTaskExecutor - [shutdown,218] - Shutting down ExecutorService 'applicationTaskExecutor'
+03:15:34.062 --- [Thread-42] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+03:15:34.300 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 79676 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+03:15:34.301 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+03:15:34.685 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+03:15:34.685 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+03:15:34.703 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+03:15:34.756 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$a4a85cf1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:15:34.761 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@539959aa' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:15:34.763 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:15:34.922 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+03:15:34.923 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+03:15:34.923 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+03:15:34.924 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+03:15:34.961 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+03:15:34.962 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 659 ms
+03:15:36.197 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: Ant [pattern='/*/**'], []
+03:15:36.218 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6af5ec91, org.springframework.security.web.context.SecurityContextPersistenceFilter@7625a187, org.springframework.security.web.header.HeaderWriterFilter@6ff97e13, org.springframework.security.web.authentication.logout.LogoutFilter@54c3b558, com.gzw.rit.common.filter.TokenLoginFilter@51ac9794, com.gzw.rit.common.filter.TokenAuthenticationFilter@23e545b0, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@4eba29e8, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4d1a61ae, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@69b787f8, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3c8fdd4d, org.springframework.security.web.session.SessionManagementFilter@45947e90, org.springframework.security.web.access.ExceptionTranslationFilter@3491e2b7, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@51a473f2]
+03:15:36.228 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+03:15:36.279 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+03:15:36.296 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+03:15:36.308 --- [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,58] - Adding welcome page template: index
+03:15:36.457 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+03:15:36.459 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+03:15:36.460 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+03:15:36.461 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+03:15:36.465 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+03:15:36.489 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_1
+03:15:36.492 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_1
+03:15:36.493 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_1
+03:15:36.495 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: batchRemoveUsingDELETE_1
+03:15:36.496 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: doAssignUsingPOST_1
+03:15:36.500 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: indexUsingGET_1
+03:15:36.501 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_2
+03:15:36.503 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_2
+03:15:36.504 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: toAssignUsingGET_1
+03:15:36.505 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_2
+03:15:36.511 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarted,61] - Started RitApplication in 2.251 seconds (JVM running for 2515.982)
+03:15:36.513 --- [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [onApplicationEvent,63] - Condition evaluation unchanged
+03:18:15.522 --- [Thread-47] INFO  o.s.s.c.ThreadPoolTaskExecutor - [shutdown,218] - Shutting down ExecutorService 'applicationTaskExecutor'
+03:18:15.531 --- [Thread-47] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+03:18:15.797 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 79676 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+03:18:15.797 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+03:18:16.142 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+03:18:16.142 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+03:18:16.155 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 12ms. Found 0 Redis repository interfaces.
+03:18:16.211 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$a4a85cf1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:18:16.216 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@61557b69' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:18:16.217 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:18:16.365 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+03:18:16.366 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+03:18:16.366 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+03:18:16.366 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+03:18:16.403 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+03:18:16.403 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 604 ms
+03:18:17.561 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: Ant [pattern='/*/**'], []
+03:18:17.586 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@247ec9ac, org.springframework.security.web.context.SecurityContextPersistenceFilter@1b09663a, org.springframework.security.web.header.HeaderWriterFilter@3eb63860, org.springframework.security.web.authentication.logout.LogoutFilter@5f4722c1, com.gzw.rit.common.filter.TokenLoginFilter@4831a277, com.gzw.rit.common.filter.TokenAuthenticationFilter@793b31ab, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@3b8e9ae5, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7965f215, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@761fb061, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@362dc5db, org.springframework.security.web.session.SessionManagementFilter@271bca50, org.springframework.security.web.access.ExceptionTranslationFilter@43043147, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1674f9fb]
+03:18:17.596 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+03:18:17.654 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+03:18:17.673 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+03:18:17.685 --- [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,58] - Adding welcome page template: index
+03:18:17.839 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+03:18:17.842 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+03:18:17.842 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+03:18:17.843 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+03:18:17.847 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+03:18:17.871 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_1
+03:18:17.874 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_1
+03:18:17.875 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_1
+03:18:17.877 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: batchRemoveUsingDELETE_1
+03:18:17.878 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: doAssignUsingPOST_1
+03:18:17.882 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: indexUsingGET_1
+03:18:17.883 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_2
+03:18:17.885 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_2
+03:18:17.886 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: toAssignUsingGET_1
+03:18:17.887 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_2
+03:18:17.891 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarted,61] - Started RitApplication in 2.122 seconds (JVM running for 2677.362)
+03:18:17.893 --- [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [onApplicationEvent,63] - Condition evaluation unchanged
+03:24:24.115 --- [Thread-52] INFO  o.s.s.c.ThreadPoolTaskExecutor - [shutdown,218] - Shutting down ExecutorService 'applicationTaskExecutor'
+03:24:24.120 --- [Thread-52] INFO  c.a.d.p.DruidDataSource - [close,1948] - {dataSource-0} closing ...
+03:24:24.428 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarting,55] - Starting RitApplication on LAPTOP-MKA6NPBB with PID 79676 (D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate\target\classes started by 16271 in D:\AB-Pool-EN-Code-NA\AA-Area-EN-Java-NA\AB-Multi-EN-MyProject-YA\ResourceIntegrationTemplate)
+03:24:24.428 --- [restartedMain] INFO  c.gzw.RitApplication - [logStartupProfileInfo,655] - The following profiles are active: dev
+03:24:24.827 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [multipleStoresDetected,249] - Multiple Spring Data modules found, entering strict repository configuration mode!
+03:24:24.827 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,127] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+03:24:24.844 --- [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [registerRepositoriesIn,187] - Finished Spring Data repository scanning in 16ms. Found 0 Redis repository interfaces.
+03:24:24.899 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'redisConfig' of type [com.gzw.rit.config.redis.RedisConfig$$EnhancerBySpringCGLIB$$a4a85cf1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:24:24.905 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@21c3bc' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:24:24.907 --- [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - [postProcessAfterInitialization,335] - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+03:24:25.065 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+03:24:25.066 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+03:24:25.066 --- [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+03:24:25.066 --- [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+03:24:25.105 --- [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+03:24:25.106 --- [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,285] - Root WebApplicationContext: initialization completed in 676 ms
+03:24:26.353 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: Ant [pattern='/*/**'], []
+03:24:26.375 --- [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,43] - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1b83ef1a, org.springframework.security.web.context.SecurityContextPersistenceFilter@66fcd29f, org.springframework.security.web.header.HeaderWriterFilter@4f18deb0, org.springframework.security.web.authentication.logout.LogoutFilter@737370b9, com.gzw.rit.common.filter.TokenLoginFilter@45683b0b, com.gzw.rit.common.filter.TokenAuthenticationFilter@182d742, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@7a3b943e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1386dcde, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1ae26d40, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@27be2928, org.springframework.security.web.session.SessionManagementFilter@63c15a21, org.springframework.security.web.access.ExceptionTranslationFilter@49a78503, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1d7b3aae]
+03:24:26.385 --- [restartedMain] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - [initHandlerMethods,69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+03:24:26.436 --- [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - [initialize,181] - Initializing ExecutorService 'applicationTaskExecutor'
+03:24:26.454 --- [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+03:24:26.466 --- [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,58] - Adding welcome page template: index
+03:24:26.637 --- [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+03:24:26.639 --- [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+03:24:26.640 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,160] - Context refreshed
+03:24:26.641 --- [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - [start,163] - Found 1 custom documentation plugin(s)
+03:24:26.647 --- [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - [scan,41] - Scanning for api listing references
+03:24:26.677 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_1
+03:24:26.680 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_1
+03:24:26.681 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_1
+03:24:26.683 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: batchRemoveUsingDELETE_1
+03:24:26.685 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: doAssignUsingPOST_1
+03:24:26.688 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: indexUsingGET_1
+03:24:26.689 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: removeUsingDELETE_2
+03:24:26.691 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: saveUsingPOST_2
+03:24:26.692 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: toAssignUsingGET_1
+03:24:26.693 --- [restartedMain] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - [startingWith,40] - Generating unique operation named: updateByIdUsingPUT_2
+03:24:26.698 --- [restartedMain] INFO  c.gzw.RitApplication - [logStarted,61] - Started RitApplication in 2.309 seconds (JVM running for 3046.169)
+03:24:26.700 --- [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [onApplicationEvent,63] - Condition evaluation unchanged

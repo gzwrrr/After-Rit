@@ -1,0 +1,6 @@
+spring:
+  # 应用名称
+  application:
+    name: rit
+  profiles:
+    active: dev
